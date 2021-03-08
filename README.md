@@ -1,3 +1,4 @@
+<head><title>以太坊矿机汇总</title></head>
 <center><font size=16>以太坊矿机汇总</font></center>
 
 <br/>
