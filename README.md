@@ -17,4 +17,5 @@
 https://docs.qq.com/pdf/DY0ZMbmhxTHRTZldn
 
 ## 购机方案
-https://docs.qq.com/pdf/DY1Nrc0d2R25mYU1i
+【腾讯文档】购机方案_修订版_v1.0
+https://docs.qq.com/pdf/DY2xmVWFYV2dRcmJN
