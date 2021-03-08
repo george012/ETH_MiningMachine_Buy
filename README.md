@@ -1,8 +1,10 @@
-<font size=16>以太坊矿机购买汇总</font>
+<center><font size=16>以太坊矿机购买汇总</font></center>
 
-# 【ETH 大算力定制ASIC机器】
+<br/>
 
-## 机器信息
+# 1. 【ETH 大算力定制ASIC机器】
+
+## 1.1. 机器信息
 | 机型配置 | 算力(±5%) | 功耗(±5%) |显存|
 |:------:|:------:|:------:|:------:|
 |低配|1000M|600W|8G|
@@ -13,8 +15,10 @@
 
 <br/>
 
-## 收益评估
-https://docs.qq.com/pdf/DY0ZMbmhxTHRTZldn
+## 1.2. 收益评估
+* [<font size=6>收益评估</font>](https://docs.qq.com/pdf/DY0ZMbmhxTHRTZldn)
 
-## 购机方案
-https://docs.qq.com/pdf/DY2xmVWFYV2dRcmJN
+
+
+## 1.3. 购机方案
+* [<font size=6>购机方案</font>](https://docs.qq.com/pdf/DY2xmVWFYV2dRcmJN)
