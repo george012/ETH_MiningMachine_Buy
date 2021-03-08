@@ -1,4 +1,4 @@
-<center><font size=16>以太坊矿机购买汇总</font></center>
+<center><font size=16>以太坊矿机汇总</font></center>
 
 <br/>
 
